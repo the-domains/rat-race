@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[rat race]]></title>
+        <description><![CDATA[rat race]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 06 Apr 2016 10:43:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rat race 1]]></title>
+            <description><![CDATA[<article><h1>Rat race 1</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/18e63f8e-a6fd-4c5e-8754-3eb733c651b5.jpg"></article>]]></description>
+            <link>undefinedrat-race-1/index.html</link>
+            <guid isPermaLink="false">e34e977d-512d-48a9-bc99-04fbaeb1eb48</guid>
+            <pubDate>Wed, 06 Apr 2016 10:43:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
